@@ -1,6 +1,7 @@
 This repository contains assignment for module 2 challenge.
 
-Created a script that loops all the stocks for one year and output the following information:
+
+Developed a script that loops all the stocks for one year and output the following information:
 1. The ticker symbol
 2. Yearly change from the opening price at the beginning of the given year to the closing price at the end of that year.
 3. The percent change from the opening price at the beginning of the given year to the closing price at the end of that year.
